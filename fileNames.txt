@@ -1,0 +1,20 @@
+对象的创建、内存布局和访问定位
+Java内存区域与内存模型
+Java线程池 2
+采用字节码的好处是什么
+静态变量和实例变量的区别
+final关键字有什么作用
+深拷贝和浅拷贝
+什么是类型擦除以及通配符
+说一下你对注解的理解
+什么是反射
+死锁
+Synchronized_ReentrantLock 2
+生产者_消费者模式 2
+volatile关键字 3
+Java类加载机制及类加载器详解
+JVM中垃圾收集算法及垃圾收集器详解 2
+JVM怎么判断对象是否已死_
+Java创建线程的三种方式
+CAS原子操作
+AbstractQueuedSvnchronizer详解 3
